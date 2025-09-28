@@ -1,0 +1,16 @@
+{
+  "remove": [
+    "Microsoft.XboxApp",
+    "Microsoft.XboxGamingOverlay",
+    "Microsoft.SkypeApp",
+    "Microsoft.GetHelp",
+    "Microsoft.Getstarted",
+    "Microsoft.MixedReality.Portal",
+    "Microsoft.WindowsCommunicationsApps",
+    "Microsoft.MicrosoftSolitaireCollection",
+    "Microsoft.BingWeather",
+    "Microsoft.MinecraftUWP",
+    "Microsoft.People",
+    "Microsoft.MSPaint"
+  ]
+}

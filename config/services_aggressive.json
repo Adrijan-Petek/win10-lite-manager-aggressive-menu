@@ -1,0 +1,17 @@
+{
+  "services": [
+    "DiagTrack",
+    "dmwappushservice",
+    "WMPNetworkSvc",
+    "WSearch",
+    "WaaSMedicSvc",
+    "wuauserv",
+    "SysMain",
+    "TabletInputService",
+    "MapsBroker",
+    "PcaSvc",
+    "OneSyncSvc",
+    "WpnService",
+    "CDPUserSvc"
+  ]
+}

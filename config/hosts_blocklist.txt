@@ -1,0 +1,6 @@
+vortex.data.microsoft.com
+telemetry.microsoft.com
+watson.telemetry.microsoft.com
+oca.telemetry.microsoft.com
+settings-win.data.microsoft.com
+diagnostics.support.services.microsoft.com
