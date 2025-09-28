@@ -1,4 +1,4 @@
-# Win10 Lite Manager — Aggressive Mode
+# Win10 Lite Manager - Aggressive Mode
 
 **WARNING (READ CAREFULLY)**  
 This repository contains **aggressive** system tweaks for Windows 10 that can significantly alter system behavior, remove built-in apps, disable security features, and change privacy-related settings. **Use at your own risk.** Test in a VM and create a full system image backup before running. Some changes may not be reversible.
